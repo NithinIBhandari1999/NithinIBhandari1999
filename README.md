@@ -1,5 +1,3 @@
-Hi, I’m @NithinIBhandari199.
-
-I’m a MERN Stack Develorper.
-
-I am currently learning ElasticSearch.
+👋 Hi, I’m @NithinIBhandari1999
+👀 I’m a MERN Stack Develorper
+🌱 I’m currently learning ElasticSearch
