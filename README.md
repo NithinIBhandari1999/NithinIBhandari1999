@@ -2,4 +2,4 @@
 
 👀 I’m a MERN Stack Develorper
 
-🌱 I’m currently learning ElasticSearch
+🌱 I’m currently learning Next JS
